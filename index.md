@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This meeting will be held at Gregynog Hall, Newtown on 20-22 May 2019. 
+#### This meeting was held at Gregynog Hall, Newtown on 20-22 May 2019. 
 
 #### Registration will close on 29th March, 2019.
 
